@@ -1,0 +1,27 @@
+{
+  "name": "lym",
+  "version": "0.0.0",
+  "description": "Path de aprendisaje del uso del driver de MongoDB para Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quiques/lym.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "driver",
+    "node"
+  ],
+  "author": "luis.921451@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quiques/lym/issues"
+  },
+  "homepage": "https://github.com/quiques/lym#readme",
+  "dependencies": {
+    "mongodb": "^2.2.4"
+  }
+}
